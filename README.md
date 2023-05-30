@@ -23,7 +23,7 @@
   ## Education
 <div align="center">
   <h2>📖 Web Development Mobile & Desktop || WebDesign </h2>
-  <p>  📆 2020- 2021 </p>
+  <h4>  📆 2020- 2021 </h4>
   <p>  📍 **ADREC** - Clermont-Ferrand, France.</p>
   <img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
