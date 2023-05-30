@@ -18,7 +18,7 @@
 </p>
 
 <details align="center">
-  <summary>📃 Resume</summary>
+  <summary align="center">📃 Resume</summary>
 
   ## Education
 
