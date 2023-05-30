@@ -22,9 +22,9 @@
 
   ## Education
 <div align="center">
-  <h2>📖 Web Development Mobile & Desktop || WebDesign </h2>
-  <h3>  📆 2020- 2021 </h3>
-  <p>  📍 **ADREC** - Clermont-Ferrand, France.</p>
+  <h2> 📖 Web Development Mobile & Desktop || WebDesign </h2>
+  <h3> 📆 2020- 2021 </h3>
+  <p>  📍 ADREC - Clermont-Ferrand, France.</p>
   <img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
@@ -32,7 +32,7 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Symfony-777BB4?logo=Symfony&logoColor=white" />
 </div>&nbsp;&nbsp;
-<div>
+<div align="center">
   <img align="center" src="https://img.shields.io/badge/Suite Adobe-777BB4?logo=adobecreativecloud&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/PhotoShop-31A8FF?logo=adobephotoshop&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/XD-FF61F6?logo=adobexd&logoColor=white" />
