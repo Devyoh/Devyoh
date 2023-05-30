@@ -21,11 +21,11 @@
   <summary align="center">📃 Resume</summary>
 
   ## Education
-
+<div align="center">
   📖 ***Web Development Mobile & Desktop || WebDesign***
   📆 2020- 2021 \
   📍 **ADREC** - Clermont-Ferrand, France.
-<div>
+
   <img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
