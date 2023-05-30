@@ -23,7 +23,7 @@
   ## Education
 <div align="center">
   <h2>📖 Web Development Mobile & Desktop || WebDesign </h2>
-  <h4>  📆 2020- 2021 </h4>
+  <h3>  📆 2020- 2021 </h3>
   <p>  📍 **ADREC** - Clermont-Ferrand, France.</p>
   <img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
@@ -40,10 +40,10 @@
 </div>
 
 ***
-  📖 ***Web Development : JavaScript / ReactJS***\
-  📆 2022 - 2023 \
-  📍 **OPENCLASSROOM** - Saint-Flour, France.
-<div>
+<div align="center">
+  <h2>📖 Web Development : JavaScript / ReactJS</h2>
+  <h3> 📆 2022 - 2023  </h3>
+  <p>  📍OPENCLASSROOM - Saint-Flour, France..</p>
   <img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/NodeJS-563D7C?logo=bootstrap&logoColor=white" />
