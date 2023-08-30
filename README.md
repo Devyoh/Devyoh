@@ -2,7 +2,7 @@
   Hi, I'm Yohan !
 </h1>
 <p align='center'>
-  A mobile and Desktop developer from France.
+  A mobile and Desktop React developer from France.
 </p>
 <p align='center'> 
   <a href="https://www.linkedin.com/in/ferreirayohan-devweb/">
